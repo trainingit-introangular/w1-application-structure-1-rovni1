@@ -11,6 +11,18 @@ Práctica para el sprint de la primera semana, correspondiente a los temas **0-H
 
 - Libre denominación y estética
 
+## Requisitos previos
+
+- Imprescindible: NodeJS versión 10 o superior
+
+- Imprescindible: Angular CLI versión 7 o superior
+
+- Recomendado Editor VSCode
+
+- Recomendado cuenta en GitHub
+
+- Recomendado Cliente GIT
+
 ## Tareas
 
 - [ ] create **Application** with routing
